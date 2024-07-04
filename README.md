@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Houda Mounir</h1>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **Android**
 
